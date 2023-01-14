@@ -1,0 +1,5 @@
+com\itmsd\inventory\service\InventoryService.class
+com\itmsd\inventory\Controller\InventoryController.class
+com\itmsd\inventory\Model\Inventory.class
+com\itmsd\inventory\InventoryApplication.class
+com\itmsd\inventory\Repo\InventoryRepo.class

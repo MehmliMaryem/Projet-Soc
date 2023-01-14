@@ -1,0 +1,10 @@
+com\itmsd\Services\dto\ProduitRequest.class
+com\itmsd\Services\dto\ProduitResponse$ProduitResponseBuilder.class
+com\itmsd\Services\service\ProduitService.class
+com\itmsd\Services\ProduitApplication.class
+com\itmsd\Services\repositories\ProduitRepo.class
+com\itmsd\Services\entities\Produit.class
+com\itmsd\Services\dto\ProduitRequest$ProduitRequestBuilder.class
+com\itmsd\Services\dto\ProduitResponse.class
+com\itmsd\Services\Controller\ProduitController.class
+com\itmsd\Services\entities\Produit$ProduitBuilder.class
